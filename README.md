@@ -1,0 +1,1 @@
+Fifth project. I did an letter counter in last project so I was ready for this project. It took less time.
